@@ -1,0 +1,27 @@
+{
+  "name": "es6-docready",
+  "description": "Document ready listener using plain javascript and ES6 module syntax",
+  "url": "https://github.com/nickeljew/es6-docready",
+  "homepage": "https://github.com/nickeljew/es6-docready",
+  "keywords": [
+    "docready",
+    "DocReady",
+    "docReady",
+    "doc-ready",
+    "document-ready",
+    "es6"
+  ],
+  "author": "Nickel Jianhui Zhu <nickeljew@hotmail.com>",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": false,
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickeljew/es6-docready.git"
+  }
+}
